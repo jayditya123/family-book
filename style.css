@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+#sort_button {
+display: none;
+}
+img{
+    width: 300px;
+}
